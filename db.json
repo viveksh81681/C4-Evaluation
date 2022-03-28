@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "name": "vicky",
+      "password": "123",
+      "location": "kolkata",
+      "tech": "true",
+      "food": "true",
+      "image": "fdss",
+      "id": 1
+    },
+    {
+      "name": "dc",
+      "password": "sd",
+      "location": "kolkata",
+      "image": "dsc",
+      "culture": "true",
+      "id": 2
+    },
+    {
+      "name": "sumit",
+      "password": "123",
+      "location": "delhi",
+      "true": "art",
+      "image": "mynew",
+      "id": 3
+    }
+  ],
+  "meetups": [
+    {
+      "title": "sdfgsfd",
+      "location": "kolkata",
+      "data": "df",
+      "time": "dsfg",
+      "theme": "movies",
+      "description": "sdfasdfsadfsdfsdf",
+      "image": "sdfasdfsadfsdfsd",
+      "id": 1
+    },
+    {
+      "title": "new",
+      "location": "mumbai",
+      "data": "2022-10-12",
+      "time": "12:55",
+      "theme": "food",
+      "description": "imp",
+      "image": "dsas",
+      "id": 2
+    },
+    {
+      "title": "new",
+      "location": "mumbai",
+      "data": "2022-10-12",
+      "time": "12:55",
+      "theme": "food",
+      "description": "imp",
+      "image": "dsas",
+      "id": 3
+    }
+  ]
+}
